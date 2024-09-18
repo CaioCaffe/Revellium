@@ -1,0 +1,62 @@
+
+html {
+    background-color: rgb(182, 104, 254);
+}
+
+h1 {
+    font-size: 50px;
+    background-color: white;
+    max-width: 1440vh;
+    padding: 10px 0;
+    text-align: center;
+    border-bottom: solid;
+}
+
+
+
+.informacoes.ativa {
+    background-color: white;
+    font-size: 20px;
+    width: 450px;
+    height: 125px;
+    padding: 10px;
+    margin: 150px 1px 70px 10px;
+}
+
+.informacoes {
+    background-color: white;
+    font-size: 20px;
+    width: 455px;
+    height: 125px;
+    padding: 10px;
+    margin: 150px 1px 70px 10px;
+}
+
+h2 {
+    background-color: rgb(162, 72, 247);
+    width: 215px;
+    height: 55px;
+    text-align: center;
+    padding: 3.7px;
+    border-bottom: solid;
+    margin: 0%;
+    font-size: 26px;
+}
+
+.negociacoes{
+    background-color: rgb(255, 255, 255);
+    border: solid;
+    height: 120px;
+    width: 220px;
+}
+
+.instagram {
+    display: inline-block;
+    padding-left: 20px;
+    padding-top: 7px;
+}
+.whatsapp {
+    display: inline-block;
+    padding-left: 53px;
+    padding-top: 7px;
+}
